@@ -1,0 +1,43 @@
+Orijinal Home
+https://alistapart.com/
+
+Bizim Yaptığımız Home
+file:///C:/Users/dell/Desktop/duyarl%C4%B1webproje/home.html
+-
+
+Orijinal Articles
+https://alistapart.com/articles/
+
+Bizim Yaptığımız Articles
+file:///C:/Users/dell/Desktop/duyarl%C4%B1webproje/Art%C4%B1cles.html
+-
+
+Orijinal Events
+https://alistapart.com/events/
+
+Bizim Yaptığımız Events
+file:///C:/Users/dell/Desktop/duyarl%C4%B1webproje/Events.html
+-
+
+Orijinal Topics
+https://alistapart.com/topics/
+
+Bizim Yaptığımız Topics
+file:///C:/Users/dell/Desktop/duyarl%C4%B1webproje/Topics.html
+-
+
+Orijinal Write For Us
+https://alistapart.com/about/contribute/
+
+Bizim Yaptıgımız Write For Us
+file:///C:/Users/dell/Desktop/duyarl%C4%B1webproje/writeforus.html
+-
+
+Mustafa Tosun:
+
+Articles ve Events sayfalarını yaptı. 
+Footer bölümünü yaptı.
+
+İzzet Furkan Keser:
+Home, Topics ve Write For Us sayfalarını yaptı.
+Header bölümünü yaptı.
